@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "148321835458",
-    "firebase_url": "https://sroom-7e9db.firebaseio.com",
-    "project_id": "sroom-7e9db",
-    "storage_bucket": "sroom-7e9db.appspot.com"
+    "project_number": "511050302258",
+    "firebase_url": "https://thanhhuy-af907.firebaseio.com",
+    "project_id": "thanhhuy-af907",
+    "storage_bucket": "thanhhuy-af907.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:148321835458:android:3d4206cb233f0a55421e5b",
+        "mobilesdk_app_id": "1:511050302258:android:2d0da65965a0cbe3ad8d2b",
         "android_client_info": {
           "package_name": "com.example.s_roomv1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "148321835458-kpsmnrgdk167lj45fog6s08r07k40hjo.apps.googleusercontent.com",
+          "client_id": "511050302258-k2am0jlpg8s6viquntshppo6tskkqqsg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.s_roomv1",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "148321835458-ah8t2l24b1qqcvurlm9tc8iq3aqgo6nf.apps.googleusercontent.com",
+          "client_id": "511050302258-e0ffdai95rsvbuoa2g3kcfm9vf2qve5f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCgLb9_jc_K0oDwbKG0rvUE67NQV3Hmcao"
+          "current_key": "AIzaSyAqoVA-VWsWAnSN8VzKRcsTKx-4-TqUnl8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "148321835458-ah8t2l24b1qqcvurlm9tc8iq3aqgo6nf.apps.googleusercontent.com",
+              "client_id": "511050302258-e0ffdai95rsvbuoa2g3kcfm9vf2qve5f.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
